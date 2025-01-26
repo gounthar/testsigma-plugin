@@ -3,9 +3,6 @@ package com.testsigma.plugins.util;
 import hudson.model.Build;
 import hudson.model.BuildListener;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class CommonUtil {
 
     public static String extractTestPlanId(String testPlanId, Build<?, ?> build, BuildListener listener)  {
