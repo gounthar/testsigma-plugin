@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+   This plugin can be used to trigger a Testsigma execution as part of build process.
+</div>
